@@ -21,13 +21,13 @@ Second Dashboard
    ![2](https://github.com/ankit-7050/Amazon_sales_analysis/assets/132135405/ff255464-d7eb-4100-821b-831496982a42)
 
 6. Cosmetics is highest in contribute of revenue and Profits.
-7. There are offline and online sales channel.
-8. There are 4 unique Order Priority H ,C L,M.
+7. There are Offline and Online sales channel.
+8. There are 4 unique Order Priority H, C, L, M.
 9. There is H is highest Order priorty and offline channel contribution.
   ![3](https://github.com/ankit-7050/Amazon_sales_analysis/assets/132135405/1e664476-88d7-4870-a895-87985984f6b1)
 
 10. The Gambia is the top selling country.
-11. Suob Saharan is the top selling region.
+11. Sub-Saharan is the top selling region.
     ![4](https://github.com/ankit-7050/Amazon_sales_analysis/assets/132135405/21a106a8-1507-4cb4-bad5-ffd0d22204fc)
 
 
