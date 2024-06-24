@@ -2,6 +2,13 @@
 ## Project Overview
 The Amazon Data Sales Analysis project aims to analyze and derive insights from Amazon's vast sales data. By leveraging advanced data analytics techniques, the project seeks to understand customer behavior, sales trends, and product performance. The ultimate goal is to inform strategic decision-making processes and optimize various aspects of Amazon’s operations, such as inventory management, marketing strategies, and customer satisfaction.
 
+## Dashbords of Amazon Sales Analysis
+First Dashboard
+![5](https://github.com/ankit-7050/Amazon_sales_analysis/assets/132135405/86185f1c-3050-4ecb-9df2-b38a5757d030)
+
+Second Dashboard
+![6](https://github.com/ankit-7050/Amazon_sales_analysis/assets/132135405/909547ee-3b7f-4da4-9371-ffd55f7e7e37)
+
 ## Here are some specific insights that can be gleaned from this report:
 
 1. There are are 100 row and 16 columns.
@@ -15,13 +22,12 @@ The Amazon Data Sales Analysis project aims to analyze and derive insights from 
 
 6. Cosmetics is highest in contribute of revenue and Profits.
 7. There are offline and online sales channel.
-8. Offline Sales Chann
-9. There are 4 unique Order Priority H ,C L,M.
-10. There is H is highest Order priorty and offline channel contribution.
+8. There are 4 unique Order Priority H ,C L,M.
+9. There is H is highest Order priorty and offline channel contribution.
   ![3](https://github.com/ankit-7050/Amazon_sales_analysis/assets/132135405/1e664476-88d7-4870-a895-87985984f6b1)
 
-11. The Gambia is the top selling country.
-12. Suob Saharan is the top selling region.
+10. The Gambia is the top selling country.
+11. Suob Saharan is the top selling region.
     ![4](https://github.com/ankit-7050/Amazon_sales_analysis/assets/132135405/21a106a8-1507-4cb4-bad5-ffd0d22204fc)
 
 
@@ -30,15 +36,4 @@ The Amazon Data Sales Analysis project aims to analyze and derive insights from 
 
 ![6](https://github.com/ankit-7050/Amazon_sales_analysis/assets/132135405/217c4e47-3af2-4091-83e8-3d5877c6d194)
 
-
-4. The United States is Amazon's largest market, accounting for 42.46% of total sales.
-6. The technology category is Amazon's best-selling category, accounting for 4.7 million in sales.
-7. Standard Class is the most popular shipping mode, accounting for 7.58 million in sales. 
-8. There are offline and online channel
-9. There are 4 unique Order Priority H ,C L,M. 
-10. There is H is highest Order priorty and offline channel contribution. 
-11. Clothes and cosmetics both are highest in contribute of revenue. 
-12. Sub-sharan Africa is the highest region of offline channel and total profit and also revenue.
-13. The Gambia is the top selling country.
-14. The honduras country generate maximum revenue.
 
