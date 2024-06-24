@@ -24,7 +24,13 @@ The Amazon Data Sales Analysis project aims to analyze and derive insights from 
 12. Suob Saharan is the top selling region.
     ![4](https://github.com/ankit-7050/Amazon_sales_analysis/assets/132135405/21a106a8-1507-4cb4-bad5-ffd0d22204fc)
 
-13. 
+
+![5](https://github.com/ankit-7050/Amazon_sales_analysis/assets/132135405/6b7f0868-6df1-4469-b639-1681564f7d7f)
+
+
+![6](https://github.com/ankit-7050/Amazon_sales_analysis/assets/132135405/217c4e47-3af2-4091-83e8-3d5877c6d194)
+
+
 4. The United States is Amazon's largest market, accounting for 42.46% of total sales.
 6. The technology category is Amazon's best-selling category, accounting for 4.7 million in sales.
 7. Standard Class is the most popular shipping mode, accounting for 7.58 million in sales. 
